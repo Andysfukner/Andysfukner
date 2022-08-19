@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Andysfukner
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me: andys.fukner@gmail.com
